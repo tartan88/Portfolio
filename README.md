@@ -30,7 +30,7 @@ I'm eager to dive deep into the art and science of data visualization in this co
 
 #### Assignment 1: Visualizing government debt using Tableau
 
-<iframe src="https://data.oecd.org/chart/7fbh" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/7fbh" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2020</a></iframe>
+[OECD Chart: General government debt, Total, % of GDP, Annual, 2020](https://data.oecd.org/chart/7fbh)
   
 ### Final Project:
 
