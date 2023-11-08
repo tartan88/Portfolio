@@ -32,7 +32,7 @@ I'm eager to dive deep into the art and science of data visualization in this co
 
 ###### Part 1
 
-<iframe src="https://data.oecd.org/chart/7fbn" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/7fbn" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2020</a></iframe>
+[General government debt, Total, % of GDP, Annual] (https://data.oecd.org/chart/7fbl).
 
 ##### Part 2
   
