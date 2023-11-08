@@ -32,7 +32,7 @@ I'm eager to dive deep into the art and science of data visualization in this co
 
 ##### Part 1
 
-[![OECD Chart: General government debt, Total, % of GDP, Annual, 2020](URL_to_image)](https://data.oecd.org/chart/7fbh)
+[OECD Chart: General government debt, Total, % of GDP, Annual, 2020](https://data.oecd.org/chart/7fbh)
 
 ##### Part 2
   
