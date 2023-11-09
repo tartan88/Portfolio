@@ -32,7 +32,7 @@ I'm eager to dive deep into the art and science of data visualization in this co
 
 ##### Part 1
 
-![General government debt, Total, % of GDP, Annual](https://data.oecd.org/chart/7fbl)
+![General government debt, Total, % of GDP, Annual](https://data.oecd.org/chart/7fbl).
 
 ##### Part 2
   
