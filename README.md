@@ -30,7 +30,7 @@ I'm eager to dive deep into the art and science of data visualization in this co
 
 #### Assignment 1: Visualizing government debt using Tableau
 
-###### Part 1
+##### Part 1
 
 [General government debt, Total, % of GDP, Annual] (https://data.oecd.org/chart/7fbl).
 
