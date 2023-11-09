@@ -61,3 +61,33 @@ I'm eager to dive deep into the art and science of data visualization in this co
 ### Final Project:
 
 **Project Title** - An overview of the project, its objectives, and its significance.
+
+### Test
+
+// Assuming the OECD provides a JSON API and you're using Chart.js to render the chart
+
+fetch('https://data.oecd.org/api/data/chart/7fgk')
+  .then(response => response.json())
+  .then(data => {
+    // Process the data and create a dataset for Chart.js
+    const dataset = processDataForChart(data);
+    
+    // Create the chart using Chart.js
+    const ctx = document.getElementById('myChart').getContext('2d');
+    const myChart = new Chart(ctx, {
+      type: 'bar', // or 'line', 'pie', etc., depending on your data
+      data: dataset,
+      options: {
+        // Chart.js options
+      }
+    });
+  })
+  .catch(error => {
+    console.error('Error fetching OECD data:', error);
+  });
+
+function processDataForChart(data) {
+  // Transform the OECD data into the format expected by Chart.js
+  // This will depend on the structure of the data you receive from the OECD API
+}
+
