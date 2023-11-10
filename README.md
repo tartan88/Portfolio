@@ -60,6 +60,12 @@ I'm eager to dive deep into the art and science of data visualization in this co
   vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
 
+###### Why did I choose the above feature and color scheme?
+
+In creating this treemap visualization to display the average yearly government debt from 1995 to 2022, I chose specific features and a color scheme that would make the information not only accessible but also instantly interpretable. The treemap format was selected for its ability to represent large datasets compactly and space-efficiently. By assigning each country a block proportional to its average debt level, I've made it easier for viewers to compare different countries' debt without getting overwhelmed by numbers.
+
+I opted for a gradient of red to orange hues for the color scheme. I did this because warm colors often suggest urgency and attract attention. Here, they represent the intensity of the debt level, with darker shades indicating higher debt. This visual cue helps to convey the seriousness of higher debt levels and allows for a quick assessment of which countries have the highest average debt. The gradient is visually appealing and serves a practical purpose, enabling the viewer to grasp complex information at a glance.
+
 ### Final Project:
 
 **Project Title** - An overview of the project, its objectives, and its significance.
