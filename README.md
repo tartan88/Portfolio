@@ -66,6 +66,12 @@ In creating this treemap visualization to display the average yearly government 
 
 I opted for a gradient of red to orange hues for the color scheme. I did this because warm colors often suggest urgency and attract attention. Here, they represent the intensity of the debt level, with darker shades indicating higher debt. This visual cue helps to convey the seriousness of higher debt levels and allows for a quick assessment of which countries have the highest average debt. The gradient is visually appealing and serves a practical purpose, enabling the viewer to grasp complex information at a glance.
 
+##### Summary for Assignment 1
+
+In examining the methods of visualizing government debt data, I've explored both a tabular color-coded representation and a treemap. While the first method uses a detailed table with a color gradient to show the debt as a percentage of GDP across different countries and years, the treemap condenses this information into a single snapshot, using block size to represent the magnitude of debt. The tabular approach allows for precise, year-by-year scrutiny, ideal for identifying specific trends or anomalies in the data. In contrast, the treemap gives an immediate visual impact, showing the big picture of debt distribution across countries without focusing on the granularity of year-to-year changes.
+
+My selection of the treemap for the third visualization was intentional, aiming to provide a clear and immediate understanding of the average debt levels without the distraction of annual fluctuations. This visualization method strips away the complexity and delivers a straightforward narrative: which countries have, on average, carried higher or lower debt loads over an extended period. The choice of a red-to-orange color scheme emphasizes the intensity of the debt situation, with darker shades naturally drawing the eye to countries with more significant debt concerns. This simplification through color and size makes the treemap an effective tool for conveying the overall landscape of government debt, encouraging viewers to engage with the data at a macro level.
+
 ### Final Project:
 
 **Project Title** - An overview of the project, its objectives, and its significance.
