@@ -28,6 +28,8 @@ I'm eager to dive deep into the art and science of data visualization in this co
 
 ### Assignments:
 
+#### [Assignment 1](/Ass1.md)
+
 #### Assignment 1: Visualizing government debt using Tableau
 
 ##### Part 1
