@@ -69,3 +69,33 @@ Professor: I would recommend sorting the data in a way that it shows which state
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
   vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
+
+#### **How the final Infographic is better than the original one?**
+
+The final infographic, a heat map of the percentage of people earning the federal minimum wage or less from 2016 to 2021, has been crafted to address the shortcomings of the original infographic through several key enhancements:
+
+1. **Enhanced Color Contrast and Clarity**: 
+The original map utilized a monochromatic blue palette, which was not only challenging for color differentiation but also did not cater to those with color vision deficiencies. The final infographic employs a color gradient that spans from light orange to dark red, offering a more significant contrast between the values and facilitating an easier distinction of data points. This color scheme adheres to best practices for data visualization, ensuring the information is accessible to a wider audience, including those with color blindness.
+
+2. **Temporal Comparison**: 
+Where the original map provided a static snapshot of a single year, the heat map extended the analysis across six years. This temporal element is critical in understanding trends and patterns in the minimum wage landscape over time, offering insights into each state's economic progression or regression.
+
+3. **Interactive Elements**: 
+Interactivity is a significant addition to the final infographic. The original map's static nature is transformed into an interactive experience, allowing users to engage with the data on a deeper level. Viewers can hover over specific states to see detailed information for each year, making the data more tangible and the trends more apparent.
+
+4. **Data Density and Information Layering**: 
+In addressing the data density and layering, the final infographic offers a comprehensive view without overwhelming the viewer. Each state's data is presented in such a way that high-level information is easily digestible, while more detailed data is available upon interaction, catering to both casual observers and more detail-oriented users.
+
+5. **Narrative and Analytical Depth**: 
+Moving beyond mere presentation, the final infographic is structured to tell a story. It's not just about where the minimum wage earners are, but also about the socioeconomic narratives that the trends might suggest. The heat map invites viewers to ask questions about the data—such as the implications of these percentages on local economies and living standards—and provides a platform for further investigation.
+
+6. **Design and Layout Improvements**: 
+The layout has been improved for better readability and user experience. The font sizes, cell spacing, and overall arrangement have been optimized to make the visualization informative and aesthetically pleasing.
+
+#### What input from the interviews has been incorporated?
+
+After receiving feedback on the initial draft of the infographic, I recognized the importance of presenting the data in a manner that readily highlights the states with the highest percentages of minimum wage earners, which would underscore the regions where wage disparities might be most pronounced. Therefore, I adjusted the sorting order so that the states are listed from those with the highest percentage of individuals earning the federal minimum wage or less at the top, descending to those with the lowest at the bottom. This change in sorting order shifts the focus immediately to the areas of greatest concern and invites a more critical analysis of the factors contributing to these rates. This adjustment not only enhances the infographic's clarity but also its utility as an analytical tool, allowing policymakers, researchers, and the public to quickly identify and prioritize states that may require more urgent attention and intervention. The result is a final product that is not just visually informative but also strategically structured to prompt discussion and action on the issue of minimum wage earnings in the United States.
+
+#### Why did I not use any design from Viz Review and Watch me Viz videos?
+
+I chose not to use designs from the Viz Review and Watch me Viz videos because, while they offer rich insights into data visualization, the infographics featured tend to be quite complex and densely packed with information. These designs, though informative for a data-savvy audience, can be overwhelming and less accessible to the general public. My aim was to create an infographic that would be immediately understandable to anyone, regardless of their familiarity with data interpretation. By simplifying the design and focusing on the most crucial data points, I ensured that the final product was viewer-friendly, clear, and engaging for a wider audience. This approach makes the information more digestible and allows viewers to grasp the key messages at a glance without the need for in-depth analysis, which aligns with the goal of reaching as broad an audience as possible.
