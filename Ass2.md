@@ -1,12 +1,12 @@
-# Assignment 1: Visualizing government debt using Tableau
+### Assignment 1: Visualizing government debt using Tableau
 
-## Part 1
+#### Part 1
 
 <iframe src="https://data.oecd.org/chart/7fkd" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true">
   <a href="https://data.oecd.org/chart/7fkd" target="_blank">OECD Chart: General government debt, Total, % of GDP, 2020</a>
 </iframe>
 
-## Part 2
+#### Part 2
   
 <div class='tableauPlaceholder' id='viz1699418722646' style='position: relative'><noscript><a href='#'><img alt='General Government debt (Total, % of GDP, 2020)Source: OEDC Data, National Accounts at a GlanceCitation: OECD (2020), General government debt, accessed on 7 November 2023, data.oecd.org&#47;gga&#47;general-government-debt.htm ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;As&#47;AssignmentGovt_Debt_&#47;Sheet1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='AssignmentGovt_Debt_&#47;Sheet1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;As&#47;AssignmentGovt_Debt_&#47;Sheet1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                
 <script type='text/javascript'>                    
@@ -18,7 +18,7 @@
   vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
 
-## Part 3
+#### Part 3
 
 <div class='tableauPlaceholder' id='viz1699500540332' style='position: relative'><noscript><a href='#'><img alt='Average yearly government debt from 1995 to 2022 (as % of GDP)Source: OEDC Data, National Accounts at a GlanceCitation: OECD (2022), accessed on 7 November 2023, data.oecd.org&#47;gga&#47;general-government-debt.htm ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Av&#47;Averageyearlygovernmentdebtfrom1995to2022&#47;Sheet1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Averageyearlygovernmentdebtfrom1995to2022&#47;Sheet1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Av&#47;Averageyearlygovernmentdebtfrom1995to2022&#47;Sheet1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>
 <script type='text/javascript'>                    
@@ -30,13 +30,13 @@
   vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
 
-## Why did I choose the above feature and color scheme?
+#### Why did I choose the above feature and color scheme?
 
 In creating this treemap visualization to display the average yearly government debt from 1995 to 2022, I chose specific features and a color scheme that would make the information not only accessible but also instantly interpretable. The treemap format was selected for its ability to represent large datasets compactly and space-efficiently. By assigning each country a block proportional to its average debt level, I've made it easier for viewers to compare different countries' debt without getting overwhelmed by numbers.
 
 I opted for a gradient of red to orange hues for the color scheme. I did this because warm colors often suggest urgency and attract attention. Here, they represent the intensity of the debt level, with darker shades indicating higher debt. This visual cue helps to convey the seriousness of higher debt levels and allows for a quick assessment of which countries have the highest average debt. The gradient is visually appealing and serves a practical purpose, enabling the viewer to grasp complex information at a glance.
 
-## Summary for Assignment 1
+#### Summary for Assignment 1
 
 In examining the methods of visualizing government debt data, I've explored both a tabular color-coded representation and a treemap. While the first method uses a detailed table with a color gradient to show the debt as a percentage of GDP across different countries and years, the treemap condenses this information into a single snapshot, using block size to represent the magnitude of debt. The tabular approach allows for precise, year-by-year scrutiny, ideal for identifying specific trends or anomalies in the data. In contrast, the treemap gives an immediate visual impact, showing the big picture of debt distribution across countries without focusing on the granularity of year-to-year changes.
 
