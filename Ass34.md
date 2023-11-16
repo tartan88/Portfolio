@@ -8,6 +8,19 @@
 
 This infographic was selected for analysis because it encapsulates critical socioeconomic data. It illustrates the percentage of workers earning minimum wage or less across the United States, a topic that lies at the intersection of policy, economy, and social welfare, and thus is of considerable interest to a broad audience, including policymakers, economists, and the general public. The visualization employs a geographic map, an approach that leverages spatial recognition to convey complex data in an intuitive format. However, the choice of a monochromatic color scheme and the lack of comparative context present an opportunity for critique and redesign. By analyzing this visualization, I aim to enhance its communicative power, ensuring that it informs, invites analysis, and elicits a deeper understanding of the data it represents. The nuances of its design—such as color contrast and data presentation—provide a fertile ground for discussion on how to transform a basic infographic into an advanced form that is both informative and insightful, fulfilling the potential of data visualization as a tool for storytelling and engagement in the digital age.
 
+#### Explanation of the data:
+
+The data from the Excel file "Minimum Wage or Less by State" consists of four columns:
+
+1. **State**: This column lists various U.S. states.
+2. **Total**: Represents the total percentage of workers in the state earning at or below the minimum wage.
+3. **At Minimum Wage**: Indicates the percentage of workers in the state who earn exactly the minimum wage.
+4. **Below Minimum Wage**: Shows the percentage of workers in the state who earn below the minimum wage.
+
+For example, in Alabama in 2021, 1.8% of workers earn at or below the minimum wage, with 0.5% at the minimum wage and 1.3% below it.
+
+The data has 6 sheets, each for one year fom 2016 - 2021.
+
 ### Wireframe a solution
 
 #### My idea for improvement:
