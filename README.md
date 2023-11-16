@@ -18,5 +18,5 @@ I'm eager to dive deep into the art and science of data visualization in this co
 
 ### Assignments:
 
-#### [Assignment: Visualizing government debt using Tableau](/Ass1.md)
+#### [Assignment: Visualizing government debt using Tableau](/Ass2.md)
 #### [Assignment: Critique by Design with Tableau](/Ass34.md)
