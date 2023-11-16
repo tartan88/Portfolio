@@ -17,9 +17,9 @@ The data from the Excel file "Minimum Wage or Less by State" consists of four co
 3. **At Minimum Wage**: Indicates the percentage of workers in the state who earn exactly the minimum wage.
 4. **Below Minimum Wage**: Shows the percentage of workers in the state who earn below the minimum wage.
 
-For example, in Alabama in 2021, 1.8% of workers earn at or below the minimum wage, with 0.5% at the minimum wage and 1.3% below it.
+For example, in Alabama in 2021, 1.8% of workers earned at or below the minimum wage, with 0.5% at the minimum wage and 1.3% below it.
 
-The data has 6 sheets, each for one year fom 2016 - 2021.
+The data has 6 sheets, each for one year from 2016 - 2021.
 
 ### Wireframe a solution
 
@@ -70,6 +70,10 @@ Me: Considering your background, who do you think this is meant for?
 Professor: It's likely aimed at those in academia or policy analysis, though it's missing critical analysis that would make it more useful for scholarly work.  
 Me: What modifications would you suggest for this visualization?  
 Professor: I would recommend sorting the data in a way that it shows which states are doing worse in terms of minimum wage or less earners.  
+
+**Reflection of the interviews**
+
+The interviews revealed distinct perspectives on a data visualization representing state-level percentages of people earning at or below minimum wage over several years. The student found the color coding confusing and suggested including a legend and charts for better trend visualization, perceiving the content as accessible for both specialists and the general public. The professor, on the other hand, acknowledged the data's adequacy but pointed out the lack of a clear narrative or conclusion, suggesting it was more suited for academia or policy analysis. He recommended reorganizing the data to highlight states with higher percentages of minimum wage earners, emphasizing the need for more in-depth analysis to increase its utility for scholarly purposes.
 
 ### Final Infographic  
 
