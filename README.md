@@ -20,3 +20,7 @@ I'm eager to dive deep into the art and science of data visualization in this co
 
 #### [Assignment: Visualizing government debt using Tableau](/Ass2.md)
 #### [Assignment: Critique by Design with Tableau](/Ass34.md)
+
+### Final Project:
+
+#### [Part I](FPP-I.md)
