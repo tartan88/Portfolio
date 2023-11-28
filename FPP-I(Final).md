@@ -22,7 +22,7 @@ The data for this project is sourced from two primary locations:
 2. **Energy Consumption Data:** From the U.S. Energy Information Administration ([EIA](https://www.eia.gov/totalenergy/data/monthly/dataunits.php)), this dataset includes detailed monthly records of various energy sources' consumption since January 1973.
 
 ### Initial Sketches
-I plan to do following types of graphs/ infographics in my project.
+I plan to do the following types of graphs/ infographics in my project.
 
 1. **Line Graphs** for each energy type showing consumption trends over time.
 2. **Bar Charts** comparing annual consumption of different energy sources.
@@ -30,3 +30,6 @@ I plan to do following types of graphs/ infographics in my project.
 4. **Infographics** highlighting key milestones in energy consumption history.
 
 These sketches will help visualize how energy consumption patterns have evolved and where they might be heading.
+
+### Final Project Plateform
+For the final presentation of the project, Shorthand, a digital storytelling platform, will be utilized. This platform is known for its user-friendly interface and visually engaging layouts, making it an excellent choice for presenting data-driven stories. The project will involve creating a narrative that seamlessly integrates the data visualizations, text explanations, and interactive elements. Shorthand's tools will enable the development of a compelling and immersive experience, guiding viewers through the evolution of energy consumption and its environmental impact. The project's completion will involve meticulous planning of the storyline, careful design of data visualizations, and strategic use of Shorthand's interactive features to ensure a coherent and impactful delivery of the project's key messages.
