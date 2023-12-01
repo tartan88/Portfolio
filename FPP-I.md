@@ -1,3 +1,5 @@
+| [Home](https://tartan88.github.io/Portfolio/) | [Project](https://tartan88.github.io/Portfolio/#final-project) |
+
 ## Final Project: Part - I (US Energy Consumption Trends)
 
 ### High-Level Summary
