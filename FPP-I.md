@@ -25,11 +25,11 @@ The data for this project is sourced from two primary locations:
 I plan to do the following types of graphs/ infographics in my project.
 
 1. **Line Graphs** for each energy type showing consumption trends over time.
-![US Energy Consumption Trends Over Time](https://github.com/tartan88/Portfolio/blob/main/Screenshot%202023-11-30%20204224.png)
+[US Energy Consumption Trends Over Time](https://github.com/tartan88/Portfolio/blob/main/Screenshot%202023-11-30%20204224.png)
 2. **Bar Charts** comparing annual consumption of different energy sources.
-![US Annual Energy Consumption Comparison](https://github.com/tartan88/Portfolio/blob/main/Screenshot%202023-11-30%20204300.png)
+[US Annual Energy Consumption Comparison](https://github.com/tartan88/Portfolio/blob/main/Screenshot%202023-11-30%20204300.png)
 3. **Pie Charts** to illustrate the proportion of each energy type in total consumption for selected years.
-![Energy Consumption Mix in 2020](https://github.com/tartan88/Portfolio/blob/main/Screenshot%202023-11-30%20204325.png)
+[Energy Consumption Mix in 2020](https://github.com/tartan88/Portfolio/blob/main/Screenshot%202023-11-30%20204325.png)
 4. **Infographics** highlighting key milestones in energy consumption history.
 
 These sketches will help visualize how energy consumption patterns have evolved and where they might be heading.
