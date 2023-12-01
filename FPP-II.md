@@ -18,8 +18,11 @@ The [historical context of CO2 emissions](https://www.wri.org/insights/history-c
 
 ### Change in US energy consumption mix 1973-2023
 
-<img src="https://raw.githubusercontent.com/tartan88/Portfolio/main/energymix1973.png" width="460"/> <img src="https://raw.githubusercontent.com/tartan88/Portfolio/main/energymix2023.png" width="460"/>
+<img src="https://raw.githubusercontent.com/tartan88/Portfolio/main/energymix1973.png" width="467"/> <img src="https://raw.githubusercontent.com/tartan88/Portfolio/main/energymix2023.png" width="467"/>
 
+The pie charts depict a shift in the US energy consumption mix from 1973 to 2023, showing a substantial increase in the share of total renewable energy. Despite this shift, [CO2 emissions have continued to rise due to several factors](https://www.smithsonianmag.com/smart-news/renewable-energy-is-slowing-the-rise-of-carbon-emissions-180980988/).
+
+Firstly, the overall energy demand has grown, so fossil fuel use has not diminished sufficiently to cut emissions even with a larger share of renewables. Secondly, economic and population growth have driven higher energy consumption overall. Additionally, energy-intensive industries and transportation sectors, which are still largely dependent on fossil fuels, have increased their activity. Unprecedented events, like the COVID-19 pandemic and geopolitical tensions, have caused fluctuations in energy use patterns, with temporary drops in emissions due to lockdowns being offset by subsequent increases as activities resumed. Moreover, the transition to renewables, while significant, is not yet at the scale needed to meet the goals of international agreements like the Paris Agreement, which requires a rapid decrease in emissions to limit global temperature rise​.
 
 > Using your sketches developed last week, further develop your story outline and relevant components visually through the use of wireframing / storyboards. Using your outline as a guide, include high-fidelity, individual draft data visualizations of the critical elements of your story you want to share with your reader. Note: you can build these elements out directly in Shorthand this week if you wish.  Reminder: this template is intended to help, but it doesn't substitute for reading through the full homework assignment!  The assignment page on Canvas includes many important details for completing Part II of the final project. 
 
