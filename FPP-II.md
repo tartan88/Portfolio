@@ -24,11 +24,12 @@ The pie charts depict a shift in the US energy consumption mix from 1973 to 2023
 
 Firstly, the overall energy demand has grown, so fossil fuel use has not diminished sufficiently to cut emissions even with a larger share of renewables. Secondly, economic and population growth have driven higher energy consumption overall. Additionally, energy-intensive industries and transportation sectors, which are still largely dependent on fossil fuels, have increased their activity. Unprecedented events, like the COVID-19 pandemic and geopolitical tensions, have caused fluctuations in energy use patterns, with temporary drops in emissions due to lockdowns being offset by subsequent increases as activities resumed. Moreover, the transition to renewables, while significant, is not yet at the scale needed to meet the goals of international agreements like the Paris Agreement, which requires a rapid decrease in emissions to limit global temperature rise​.
 
-> Using your sketches developed last week, further develop your story outline and relevant components visually through the use of wireframing / storyboards. Using your outline as a guide, include high-fidelity, individual draft data visualizations of the critical elements of your story you want to share with your reader. Note: you can build these elements out directly in Shorthand this week if you wish.  Reminder: this template is intended to help, but it doesn't substitute for reading through the full homework assignment!  The assignment page on Canvas includes many important details for completing Part II of the final project. 
+### The Carbon cost of producing electricity
 
-Text here!
+![](https://raw.githubusercontent.com/tartan88/Portfolio/main/co2intensity.png)
 
-### Storyboards
+[Different energy sources contribute to CO2 emissions to varying degrees](https://www.eia.gov/) due to their carbon intensity, which is the amount of CO2 emitted per unit of electricity generated. Coal and petroleum are the most carbon-intensive fuels, releasing large amounts of CO2 for each kilowatt-hour (kWh) produced. While still a fossil fuel, natural gas emits less CO2 than coal and petroleum but more than renewable sources. Biomass can be carbon-neutral over its lifecycle but still emits CO2 when burned. Renewable sources like wind, solar, and hydroelectric power produce electricity with little to no CO2 emissions, significantly lowering the overall carbon intensity of energy generation. Nuclear energy also has a low carbon intensity, as it does not burn fuel to generate electricity, resulting in minimal CO2 emissions.
+
 
 # User research 
 
