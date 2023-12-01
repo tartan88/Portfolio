@@ -14,7 +14,7 @@ Carbon dioxide (CO2) emissions are a pivotal indicator of climate change, primar
 
 #### The Rise of CO2
 
-![CO2 Historical Trend](https://github.com/tartan88/Portfolio/blob/main/co2rise.png)
+![CO2 Historical Trend](https://raw.githubusercontent.com/tartan88/Portfolio/main/co2rise.png)
 
 
 ### Wireframes
