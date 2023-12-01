@@ -30,6 +30,7 @@ Firstly, the overall energy demand has grown, so fossil fuel use has not diminis
 
 [Different energy sources contribute to CO2 emissions to varying degrees](https://www.eia.gov/) due to their carbon intensity, which is the amount of CO2 emitted per unit of electricity generated. Coal and petroleum are the most carbon-intensive fuels, releasing large amounts of CO2 for each kilowatt-hour (kWh) produced. While still a fossil fuel, natural gas emits less CO2 than coal and petroleum but more than renewable sources. Biomass can be carbon-neutral over its lifecycle but still emits CO2 when burned. Renewable sources like wind, solar, and hydroelectric power produce electricity with little to no CO2 emissions, significantly lowering the overall carbon intensity of energy generation. Nuclear energy also has a low carbon intensity, as it does not burn fuel to generate electricity, resulting in minimal CO2 emissions.
 
+<img src="https://raw.githubusercontent.com/tartan88/Portfolio/main/usffconsumption.png" width="475"/> <img src="https://raw.githubusercontent.com/tartan88/Portfolio/main/usrnconsumption.png" width="475"/>
 
 # User research 
 
