@@ -14,6 +14,8 @@ Carbon dioxide (CO2) emissions are a pivotal indicator of climate change, primar
 
 #### The Rise of CO2
 
+![CO2 Historical Trend](https://github.com/tartan88/Portfolio/blob/main/co2rise.png)
+
 
 ### Wireframes
 > Using your sketches developed last week, further develop your story outline and relevant components visually through the use of wireframing / storyboards. Using your outline as a guide, include high-fidelity, individual draft data visualizations of the critical elements of your story you want to share with your reader. Note: you can build these elements out directly in Shorthand this week if you wish.  Reminder: this template is intended to help, but it doesn't substitute for reading through the full homework assignment!  The assignment page on Canvas includes many important details for completing Part II of the final project. 
