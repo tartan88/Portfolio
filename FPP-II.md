@@ -18,7 +18,7 @@ The [historical context of CO2 emissions](https://www.wri.org/insights/history-c
 
 ### Change in US energy consumption mix 1973-2023
 
-<img src="https://raw.githubusercontent.com/tartan88/Portfolio/main/energymix1973.png" width="500"/> <img src="https://raw.githubusercontent.com/tartan88/Portfolio/main/energymix2023.png" width="500"/>
+<img src="https://raw.githubusercontent.com/tartan88/Portfolio/main/energymix1973.png" width="450"/> <img src="https://raw.githubusercontent.com/tartan88/Portfolio/main/energymix2023.png" width="450"/>
 
 
 > Using your sketches developed last week, further develop your story outline and relevant components visually through the use of wireframing / storyboards. Using your outline as a guide, include high-fidelity, individual draft data visualizations of the critical elements of your story you want to share with your reader. Note: you can build these elements out directly in Shorthand this week if you wish.  Reminder: this template is intended to help, but it doesn't substitute for reading through the full homework assignment!  The assignment page on Canvas includes many important details for completing Part II of the final project. 
