@@ -16,7 +16,11 @@ Carbon dioxide (CO2) emissions are a pivotal indicator of climate change, primar
 
 The [historical context of CO2 emissions](https://www.wri.org/insights/history-carbon-dioxide-emissions#:~:text=At%20the%20beginning%20of%20our,%E3%80%9074%E2%80%A02%E3%80%91) reveals a dramatic and escalating trend. In the mid-19th century, the United Kingdom was the primary emitter, with its emissions being six times higher than those of the United States, which ranked second. By 1850, global CO2 emissions were considerably lower, but with the advent of industrialization, especially in the United States, emissions saw a steady rise. Between 1850 and 1960, emissions grew consistently due to industrialization and population growth. Post-1960, the landscape of CO2 emitters shifted, with China emerging as a major contributor, eventually surpassing the United States as the top emitter after 2005. By 2007, CO2 emissions from developing nations exceeded those of industrialized countries, highlighting a significant shift in the global emissions profile. In 2011, the top 10 emitting countries contributed 78% of global CO2 emissions, a reflection of the concentrated nature of emissions sources​​​.
 
-### Wireframes
+### Change in US energy consumption mix 1973-2023
+
+| ![](https://raw.githubusercontent.com/tartan88/Portfolio/main/energymix1973.png) | ![](https://raw.githubusercontent.com/tartan88/Portfolio/main/energymix2023.png) |
+
+
 > Using your sketches developed last week, further develop your story outline and relevant components visually through the use of wireframing / storyboards. Using your outline as a guide, include high-fidelity, individual draft data visualizations of the critical elements of your story you want to share with your reader. Note: you can build these elements out directly in Shorthand this week if you wish.  Reminder: this template is intended to help, but it doesn't substitute for reading through the full homework assignment!  The assignment page on Canvas includes many important details for completing Part II of the final project. 
 
 Text here!
