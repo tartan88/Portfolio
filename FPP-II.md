@@ -77,4 +77,55 @@ In addition to environmental imperatives, there is a strategic need for the US t
 
 ### Interview findings
 
+**1. Response of an Undergraduate Student at Tepper, CMU:**
+
+Initial Thoughts:
+The visualizations are straightforward and present a clear narrative about the relationship between energy production and CO2 emissions. It's impactful to see the actual numbers.
+
+Most Engaging Parts:
+The "Carbon Intensity of Electrical Energy" graph is quite compelling. It clearly shows the environmental costs of different energy sources, which I hadn't fully appreciated before.
+
+Confusing Sections:
+The "Historical US Fossil Fuel Energy Consumption" graph is a bit harder to interpret due to the overlapping lines. Perhaps differentiating the lines more would help.
+
+Impact on Understanding of Climate Change:
+These graphs make it clear that energy consumption and CO2 emissions are closely linked. It's a strong visual argument for the importance of renewable energy.
+
+Improvements/Suggestions:
+Maybe include some interactive elements or projections into the future based on current trends. It would be interesting to see where we might be headed if things don't change.
+
+**2. Response of a Graduate Student at the Engineering and Public Policy Department, CMU:**
+
+Initial Thoughts:
+The data presentation is precise, and the trends are evident. However, I think there is a missed opportunity to dive deeper into the policy implications of these trends.
+
+Most Engaging Parts:
+The comparison of the energy consumption mix between 1973 and 2023 effectively showcases the shift towards renewable energy, which is heartening from a policy perspective.
+
+Confusing Sections:
+The pie charts are too simplistic. In a policy context, it would be beneficial to consider each energy source's efficiency and reliability.
+
+Impact on Understanding of Climate Change:
+The story reinforces the significance of energy policy on climate outcomes. It provides a clear visual representation of why policy change is so critical.
+
+Improvements/Suggestions:
+Incorporate an analysis of policy changes and their impact on these trends. Also, a discussion on the economic trade-offs of the energy transition would be beneficial.
+
+**Response of a PhD Student at Heinz, CMU:**
+
+Initial Thoughts:
+The visualizations are good at communicating the basic trends. However, for a more academic audience, the inclusion of uncertainty or confidence intervals would be helpful.
+
+Most Engaging Parts:
+The "Rise of CO2" graph is striking. The steady increase in CO2 levels over the years is a powerful image that succinctly communicates the gravity of the situation.
+
+Confusing Sections:
+The "Historical US Renewable Energy Consumption" graph could use some narrative explanation. What do the trends signify? How do they correlate with major renewable initiatives or technological advancements?
+
+Impact on Understanding of Climate Change:
+The graphs underscore the critical link between our energy choices and the environment. It's a good starting point for a more nuanced discussion on sustainable energy systems.
+
+Improvements/Suggestions:
+To enhance the story, consider including predictive models or scenario analysis. Showing the potential impacts of different policy decisions on future CO2 levels could be very persuasive.
+
 ### Identified changes for Part III
