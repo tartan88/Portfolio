@@ -1,4 +1,6 @@
-| [Home](https://tartan88.github.io/Portfolio/) | [Project](https://tartan88.github.io/Portfolio/#final-project) |
+| [Home](https://tartan88.github.io/Portfolio/) | [Project](https://tartan88.github.io/Portfolio/#final-project) | [Project: Part I](https://github.com/tartan88/Portfolio/blob/main/FPP-I.md) | [Project: Part II](https://github.com/tartan88/Portfolio/blob/main/FPP-II.md) |
+
+
 
 ## Final Project: Part - II (The Carbon Footprint: Tracing the Impact of US Energy Production on Climate Change)
 
