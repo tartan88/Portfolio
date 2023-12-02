@@ -1,4 +1,5 @@
-| [Home](https://tartan88.github.io/Portfolio/) | [Project](https://tartan88.github.io/Portfolio/#final-project) | [Project: Part I](https://github.com/tartan88/Portfolio/blob/main/FPP-I.html) | [Project: Part II](https://github.com/tartan88/Portfolio/blob/main/FPP-II.html) |
+| [Home](https://tartan88.github.io/Portfolio/) | [Project](https://tartan88.github.io/Portfolio/#final-project) | [Project: Part I](https://tartan88.github.io/Portfolio/FPP-I.html) | [Project: Part II](https://tartan88.github.io/Portfolio/FPP-II.html) |
+
 ## Final Project: Part - I (US Energy Consumption Trends)
 
 ### High-Level Summary
