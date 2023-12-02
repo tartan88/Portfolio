@@ -52,57 +52,31 @@ The United States' transition to cleaner energy is imperative for the preservati
 
 In addition to environmental imperatives, there is a strategic need for the US to transition to cleaner energy to counterbalance China's growing influence as a leader in clean energy technologies. As China advances in producing and exporting renewable energy technologies, it positions itself as a key player in the global energy market. The US can maintain a competitive stance by accelerating its clean energy transition and ensure its influence in shaping the global energy landscape. This is crucial for economic competitiveness and geopolitical strategy, as energy independence and leadership in clean technology can enhance a country's global influence and leadership.
 
-# User research 
+### User Research Protocol
 
-## Target audience
-> Include your approach to identifying representative individuals, and who you hope to reach with your story. 
+#### Target Audience
 
-Text here!
+**Primary Audience:** Individuals aged 18-35 who are environmentally conscious and interested in learning about climate change and energy production.
+**Secondary Audience:** Educators and policymakers who can influence environmental policies and education.
 
-## Interview script
-> List the goals from your research, and the questions you intend to ask. 
+#### Identifying Representative Individuals
 
-Text here!
+**Approach:** I will reach out through personal contacts to the people I know who are focused on environmental issues, primarily at CMU.
 
-| Goal | Questions to Ask |
-|------|------------------|
-|      |                  |
-|      |                  |
-|      |                  |
+#### Interview Script
 
+**Introduction:** "Hello, my name is Muhammad Ali, and I'm conducting research for a project on climate change and US energy production. I would like to get your insights on a storyboard I've created. It will take about 5 minutes, and your feedback will be invaluable."
 
-Text here!
+**Questions:**
 
-## Interview findings
-> Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
+1. "What are your initial thoughts on this storyboard?"
+2. "Which parts did you find most engaging or informative?"
+3. "Were there any sections or visualizations that were confusing or unclear?"
+4. "How does this story impact your understanding or perspective on climate change?"
+5. "What improvements or additional information could make this story more compelling?"
 
-Text here!
+**Closing:** "Thank you for your time and valuable feedback. It will greatly help in enhancing the effectiveness of the project."
 
-| Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
-|-------------------------|--------------------------------|-------------|-------------|
-| Question you asked here | Insightful feedback            |             |             |
-|                         |                                |             |             |
-|                         |                                |             |             |
+### Interview findings
 
-
-# Identified changes for Part III
-> Document the changes you plan on implementing next week to address any issues identified.  
-
-Text here!
-
-| Research synthesis                       | Anticipated changes for Part III                                                |
-|------------------------------------------|---------------------------------------------------------------------------------|
-| Findings or observations from interviews | Describe what, if any changes you anticipate making to address the observation. |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-| ...add more rows as necessary            |                                                                                 |
-
-> ...include any final thoughts you have here. 
-
-Text here!
-
-# Moodboards / personas
-> If you did this optional part, include details here.  Otherwise remove this section
-
-Text here!
+### Identified changes for Part III
