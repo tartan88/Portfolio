@@ -28,7 +28,7 @@ I plan to do the following types of graphs/ infographics in my project.
 
 1. **Line Graphs** for each energy type showing consumption trends over time.
 [US Energy Consumption Trends Over Time](https://github.com/tartan88/Portfolio/blob/main/Screenshot%202023-11-30%20204224.png)
-2. **Bar Charts** comparing annual consumption of different energy sources.
+2. **Bar Charts** compare the annual consumption of different energy sources.
 [US Annual Energy Consumption Comparison](https://github.com/tartan88/Portfolio/blob/main/Screenshot%202023-11-30%20204300.png)
 3. **Pie Charts** to illustrate the proportion of each energy type in total consumption for selected years.
 [Energy Consumption Mix in 2020](https://github.com/tartan88/Portfolio/blob/main/Screenshot%202023-11-30%20204325.png)
@@ -36,5 +36,5 @@ I plan to do the following types of graphs/ infographics in my project.
 
 These sketches will help visualize how energy consumption patterns have evolved and where they might be heading.
 
-### Final Project Plateform
-For the project's final presentation, Shorthand, a digital storytelling platform, will be utilized. This platform is known for its user-friendly interface and visually engaging layouts, making it an excellent choice for presenting data-driven stories. The project will involve creating a narrative that seamlessly integrates the data visualizations, text explanations, and interactive elements. Shorthand's tools will enable the development of a compelling and immersive experience, guiding viewers through the evolution of energy consumption and its environmental impact. The project's completion will involve meticulous planning of the storyline, careful design of data visualizations, and strategic use of Shorthand's interactive features to ensure a coherent and impactful delivery of the project's key messages.
+### Final Project Platform
+Shorthand, a digital storytelling platform, will be utilized for the project's final presentation. This platform is known for its user-friendly interface and visually engaging layouts, making it an excellent choice for presenting data-driven stories. The project will involve creating a narrative that seamlessly integrates the data visualizations, text explanations, and interactive elements. Shorthand's tools will enable the development of a compelling and immersive experience, guiding viewers through the evolution of energy consumption and its environmental impact. The project's completion will involve meticulous planning of the storyline, careful design of data visualizations, and strategic use of Shorthand's interactive features to ensure a coherent and impactful delivery of the project's key messages.
