@@ -1,4 +1,4 @@
-| [Home](https://tartan88.github.io/Portfolio/) | [Project](https://tartan88.github.io/Portfolio/#final-project) | [Project: Part I](https://github.com/tartan88/Portfolio/blob/main/FPP-I.md) | [Project: Part II](https://github.com/tartan88/Portfolio/blob/main/FPP-II.md) |
+| [Home](https://tartan88.github.io/Portfolio/) | [Project](https://tartan88.github.io/Portfolio/#final-project) | [Project: Part I](https://github.com/tartan88/Portfolio/blob/main/FPP-I.html) | [Project: Part II](https://github.com/tartan88/Portfolio/blob/main/FPP-II.html) |
 
 
 
@@ -48,9 +48,9 @@ On a global scale, the energy policies and production practices of the United St
 
 ### Charting the Future: The next steps in combating global CO2 emissions
 
-The United States' transition to cleaner energy is imperative for the preservation of the world's climate. As a significant emitter of greenhouse gases, any substantial change in the US energy policy and practice can profoundly impact the global effort to mitigate climate change. The shift towards cleaner energy is crucial to reduce emissions, slow the pace of global warming, and limit the severe impacts on ecosystems and human societies. This transition is a matter of environmental stewardship and international responsibility, as the effects of climate change are borderless and require collective action from all major nations​.
+The United States' transition to cleaner energy is imperative for the preservation of the world's climate. As a significant emitter of greenhouse gases, any substantial change in the US energy policy and practice can profoundly impact the global effort to mitigate climate change. The shift towards cleaner energy is crucial to reduce emissions, slow the pace of global warming, and limit the severe impacts on ecosystems and human societies. This transition is a matter of environmental stewardship and international responsibility, as the effects of climate change are borderless and require collective action from all major nations.
 
-In addition to environmental imperatives, there is a strategic need for the US to transition to cleaner energy to counterbalance China's growing influence as a leader in clean energy technologies. As China advances in producing and exporting renewable energy technologies, it positions itself as a key player in the global energy market. By accelerating its clean energy transition, the US can maintain a competitive stance and ensure its influence in shaping the global energy landscape. This is crucial for economic competitiveness and geopolitical strategy, as energy independence and leadership in clean technology can enhance a country's global influence and leadership​.
+In addition to environmental imperatives, there is a strategic need for the US to transition to cleaner energy to counterbalance China's growing influence as a leader in clean energy technologies. As China advances in producing and exporting renewable energy technologies, it positions itself as a key player in the global energy market. The US can maintain a competitive stance by accelerating its clean energy transition and ensure its influence in shaping the global energy landscape. This is crucial for economic competitiveness and geopolitical strategy, as energy independence and leadership in clean technology can enhance a country's global influence and leadership.
 
 # User research 
 
