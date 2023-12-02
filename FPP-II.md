@@ -18,7 +18,8 @@ The [historical context of CO2 emissions](https://www.wri.org/insights/history-c
 
 ### Change in US energy consumption mix 1973-2023
 
-<img src="https://raw.githubusercontent.com/tartan88/Portfolio/main/energymix1973.png" width="475"/> <img src="https://raw.githubusercontent.com/tartan88/Portfolio/main/energymix2023.png" width="475"/>
+![](https://raw.githubusercontent.com/tartan88/Portfolio/main/energymix1973.png)
+![](https://raw.githubusercontent.com/tartan88/Portfolio/main/energymix2023.png)
 
 The pie charts depict a shift in the US energy consumption mix from 1973 to 2023, showing a substantial increase in the share of total renewable energy. Despite this shift, [CO2 emissions have continued to rise due to several factors](https://www.smithsonianmag.com/smart-news/renewable-energy-is-slowing-the-rise-of-carbon-emissions-180980988/).
 
