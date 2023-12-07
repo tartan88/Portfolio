@@ -25,4 +25,4 @@ I'm eager to dive deep into the art and science of data visualization in this co
 
 #### [Part I](FPP-I.md)
 #### [Part II](FPP-II.md)
-
+#### [Shorthand Story](https://carnegiemellon.shorthandstories.com/tswd-mai/)
