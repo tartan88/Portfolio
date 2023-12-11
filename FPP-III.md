@@ -105,13 +105,17 @@ The secondary audience includes educators and the academic community who can inf
 
 The rationale for choosing an audience with the power to effect change is rooted in the project’s objective to not just inform but also to drive action. “The Carbon Footprint” project seeks to be more than an exposé of past and present trends; it aims to be a catalyst for future change, making the audience’s selection critical. By targeting those with the authority to implement policies, influence industry standards, and shape the educational narrative, the project endeavors to contribute meaningfully to the global fight against climate change.
 
+## Shorthand Presentation
+
+[The Carbon Footprint: Tracing the Impact of US Energy Production on Climate Change](https://carnegiemellon.shorthandstories.com/tswd-mai/)
+
 ## References
 
-[Evans, Simon, and Verner Viisainen. "Analysis: Global CO2 Emissions Could Peak as Soon as 2023, IEA Data Reveals." Carbon Brief, 26 October 2023](https://www.carbonbrief.org/analysis-global-co2-emissions-could-peak-as-soon-as-2023-iea-data-reveals)
-[Hausfather, Zeke. "State of the Climate: Global Temperatures Throughout Mid-2023 Shatter Records." Carbon Brief, 23 October 2023](https://www.carbonbrief.org/state-of-the-climate-global-temperatures-throughout-mid-2023-shatter-records)
-[International Energy Agency. "Emissions Factors 2023." IEA, September 2023](https://www.iea.org/data-and-statistics/data-product/emissions-factors-2023)
-[Monroe, Robert. "Rise of Carbon Dioxide Unabated." Scripps Institution of Oceanography, University of California San Diego, 4 June 2020](https://scripps.ucsd.edu/news/rise-carbon-dioxide-unabated)
-[Ritchie, Hannah, and Max Roser. "CO2 Emissions." Our World in Data, 2023](https://ourworldindata.org/co2-emissions)
-[Schleeter, Ryan. "Global Carbon Emissions." National Geographic Society, 19 October 2023](https://education.nationalgeographic.org/resource/global-co2-emissions)
-[World Meteorological Organization. "2023 Shatters Climate Records, with Major Impacts." WMO, 30 November 2023](https://wmo.int/news/media-centre/2023-shatters-climate-records-major-impacts)
-[World Meteorological Organization. "Provisional State of the Global Climate in 2023." World Meteorological Organization, 30 November 2023](https://wmo.int/resources/publications/provisional-state-of-global-climate-2023)
+- [Evans, Simon, and Verner Viisainen. "Analysis: Global CO2 Emissions Could Peak as Soon as 2023, IEA Data Reveals." Carbon Brief, 26 October 2023](https://www.carbonbrief.org/analysis-global-co2-emissions-could-peak-as-soon-as-2023-iea-data-reveals)
+- [Hausfather, Zeke. "State of the Climate: Global Temperatures Throughout Mid-2023 Shatter Records." Carbon Brief, 23 October 2023](https://www.carbonbrief.org/state-of-the-climate-global-temperatures-throughout-mid-2023-shatter-records)
+- [International Energy Agency. "Emissions Factors 2023." IEA, September 2023](https://www.iea.org/data-and-statistics/data-product/emissions-factors-2023)
+- [Monroe, Robert. "Rise of Carbon Dioxide Unabated." Scripps Institution of Oceanography, University of California San Diego, 4 June 2020](https://scripps.ucsd.edu/news/rise-carbon-dioxide-unabated)
+- [Ritchie, Hannah, and Max Roser. "CO2 Emissions." Our World in Data, 2023](https://ourworldindata.org/co2-emissions)
+- [Schleeter, Ryan. "Global Carbon Emissions." National Geographic Society, 19 October 2023](https://education.nationalgeographic.org/resource/global-co2-emissions)
+- [World Meteorological Organization. "2023 Shatters Climate Records, with Major Impacts." WMO, 30 November 2023](https://wmo.int/news/media-centre/2023-shatters-climate-records-major-impacts)
+- [World Meteorological Organization. "Provisional State of the Global Climate in 2023." World Meteorological Organization, 30 November 2023](https://wmo.int/resources/publications/provisional-state-of-global-climate-2023)
