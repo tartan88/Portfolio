@@ -1,6 +1,8 @@
+| [Home](https://tartan88.github.io/Portfolio/) | [In-class Exercies](https://tartan88.github.io/Portfolio/#in-class-exercises) | [Assignments](https://tartan88.github.io/Portfolio/#assignments) | [Project](https://tartan88.github.io/Portfolio/#final-project) | [Project: Part I](https://tartan88.github.io/Portfolio/FPP-I.html) | [Project: Part II](https://tartan88.github.io/Portfolio/FPP-II.html) | [Project: Part III](https://tartan88.github.io/Portfolio/FPP-III.html) |
+
 ### Original Data Visualisation
 
-![Article](https://www.businessinsider.com/federal-minimum-wage-workers-map-2018-10?r=US&IR=T)
+[Article](https://www.businessinsider.com/federal-minimum-wage-workers-map-2018-10?r=US&IR=T)
 
 ![Workers making minimum wage or less](https://i.insider.com/5bb3904393032c18c75259b4?width=800&format=jpeg&auto=webp)
 
