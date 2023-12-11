@@ -11,7 +11,7 @@ Hello! I'm Muhammad Ali Idrees, currently enrolled in MS PPM at Carnegie Mellon 
 I'm eager to dive deep into the art and science of data visualization in this course. My goal is to master the nuances of effective data storytelling and learn how to create interactive visualizations for policy analysis. Here's a glimpse of me:
 
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/D4E03AQGV7Fo9EgzYEw/profile-displayphoto-shrink_800_800/0/1682868536224?e=1704326400&v=beta&t=WVB3uFjuDPcADph3pO1yOUVwnCIR8uregDPvFSB_bfc" width="700">
+  <img src="https://media.licdn.com/dms/image/D4E03AQGV7Fo9EgzYEw/profile-displayphoto-shrink_800_800/0/1682868536224?e=1704326400&v=beta&t=WVB3uFjuDPcADph3pO1yOUVwnCIR8uregDPvFSB_bfc" width="555">
 </p>
 
 
